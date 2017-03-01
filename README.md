@@ -4,69 +4,72 @@
 - 孙高杰 | 男 | 杭州电子科技大学                                                 
 - 求职意向：前端工程师
 
----------
+-----------
 ### **联系方式**
-- E-mail：mikey.sgjaz@gmail.com
+- E-mail：Eytansun.fe@gmail.com
 - QQ：805401645
-- Call：15957137219
+- TEL：15957137219
 
 -----------
 
 ### **专业技能**
 
 - HTML、CSS
-    - 通读 **《CSS 权威指南》**
-    - 了解标准化了的HTML5新特性，能够编写出具有**语义化**的HTML代码，
-    - 熟练掌握盒模型，行内、块级格式化，能够使用flex，float进行常见布局
-    - 熟练掌握 CSS3 的各种渐变，**动画**，3d 效果等属性
-    - 熟悉CSS预编译器：Less，CSS类库Bootstrap
+    - **通读** 《CSS 权威指南》
+    - 了解标准化了的 HTML5 新特性，能够编写出具有**语义化**的 HTML 代码
+    - 熟练掌握盒模型，行内、块级格式化，能够使用 flex，float 实现常见布局
+    - 熟练掌握 CSS3 的渐变，动画，2d/3d变幻等新特性
+    - 熟悉 Less/Sass，熟悉 Bootstrap
 
 - JavaScript
-    - 通读 **《JavaScript 编程精解》** 
-    - 熟悉原生JavaScript，理解JS语言的原型、闭包，高阶，异步等概念
-    - 了解**ES6**的新特性、新规范，理解promise，并能在项目中熟练使用
-    - 熟悉jQuery的常见API及使用
-    - 熟悉JavaScript的第三方框架**Vue**，了解React，Angular
+    - **通读** 《Eloquent JavaScript》 
+    - 熟悉原生 JavaScript，深入理解原型、闭包、高阶、异步等概念
+    - 熟悉 ES6 的新特性，包括但不限于新的语法糖，类与对象，Generator，Promise等
+    - 熟悉 DOM 原生API，熟悉 jQuery API
+    - 熟悉 **Vue :^2.0**，了解 Vue-router、Vuex，能够实现组件化开发
 
 - Node  
-    - 了解 **Node**的基本原理，
-    - 了解Node的require机制，并熟悉常用**模块**的使用方
-    - 熟悉Express，能搭建简单的后端路由
+    - 了解 Node 的基本原理及模块机制，熟悉常用的 Node 模块
+    - 熟悉 Express 和 Koa 的常用中间件，了解中间件的机制，能够自己实现常用中间件，能够搭建基于后端路由的传统网站([Demo](http://www.scon.site/))
 
-- 浏览器及网页方面
-    - 熟练使用 DevTools 开发调试，并借助其完成复杂逻辑的编写工作
-    - 了解前端工程化和，能够使用webpack进行打包上线
+- 浏览器及网页
+    - 熟练使用 DevTools 进行开发和调试
+    - 了解 Webpack 等前端工程化工具
     - 了解前端性能优化
 
 - 计算机基础
-    - 了解计算机网络的基本原理，HTTP的数据传输方式
-    - 了解常见的排序算法及其实现原理
+    - 熟悉常见的数据结构及算法
+    - 了解计算机网络的基本原理
+    - 了解 Http 协议的机制、常见首部及缓存方式
+    
 
     
 ----------
 ### **项目实践**
-- CSS方面的：
-    -  像素级别还原静态页面，灵活适配移动端，[一些Demos](https://github.com/Moolan-d/demos) 
-   
-- JavaScript方面的：
 
-    - 尝试实现了大部分[Lodash](https://moolan-d.github.io/SunGaoJie-lodash.js)核心函数
-    - 尝试手动实现了BASE64的编解码函数
-    - 尝试实现了[JSON.parse](http://molander.coding.me/js-pragrame/json-parse.md)
+- CSS
+    -  像素级还原静态页面，快速实现响应式开发
+    -  [Demos](https://moolan-d.github.io/Demos/) 
+   
+- JavaScript
+
+    - 尝试实现了大部分 [Lodash](https://moolan-d.github.io/SunGaoJie-lodash.js)核心函数
+    - 尝试实现了 BASE64 的[编解码](https://github.com/Moolan-d/Base-64)函数
+    - 尝试实现了基础的 [JSON.parse](https://github.com/Moolan-d/JSON-parse)
 
 - 综合实践
 
     - 使用豆瓣电影API模块化开发了一个轻量化的网页应用[青豆](http://www.scon.site:7070/#/home/hotplay)
-        - 使用到的技术有：Vue Vue-router axios jQuery Express等
-        - 初步实现的功能有：电影的展示与检索，动态加载Top250。
-    - 使用Vue，jQuery实现了一个[在线词典](http://alrsus.win/web-dictionary/Dictionary/)
-        - 用到的技术有：Vue jQuery，依赖平台为Github-pages，剑桥英语在线翻译。
+        - 使用到的技术有：Vue，Vue-router，jQuery，Express 等
+        - 初步实现的功能有：电影的展示与检索，动态加载 Top250
+    - 使用 Vue，jQuery 实现了一个[在线词典](http://alrsus.win/web-dictionary/Dictionary/)
+        - 用到的技术有：Vue，jQuery等
 
 ### **个人经历**
 
-- 2016年毕业后曾先后在河狸家、麦积科技从事过商家运营，用户运营等相关工作，对互联网行业充满热情。
+- 2016年毕业后曾先后在河狸家、麦积科技从事过商家运营，用户运营等相关工作，对互联网行业充满热情
 
 ### **自我评价**
-- 热爱前端事业，持续关注前端领域新兴技术，有良好的编码习惯，
-- 有较强的学习能力，善于通过各种渠道获取知识
-- 善于通过谷歌、Stack Overflow解决疑难问题 
+
+- 热爱互联网，有良好的编码习惯，能够编写简洁、规范的文档
+- 有很强的自制力和自我驱动力，善于通过各种渠道获取知识
